@@ -15,3 +15,5 @@
 
 
 ## 2 Курс
+### 1 Модуль
+- [дискретная математика](https://github.com/misshimichka/HSE-ADAAI-latex/blob/main/dm_module_5.pdf)
